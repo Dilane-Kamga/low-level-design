@@ -53,12 +53,6 @@ git clone https://github.com/Dilane-Kamga/low-level-design.git
 cd low-level-design
 ```
 
-### 🏃 Run Java Code
-```bash
-javac solid/srp/Report.java
-java solid.srp.Report
-```
-
 ## 📢 Contributing
 Contributions are welcome! Feel free to submit pull requests for improvements, additional patterns, or new system designs.
 
